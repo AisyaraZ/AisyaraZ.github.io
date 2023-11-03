@@ -1,0 +1,28 @@
+
+.jumbostron {
+    background-color: #FFF8DC;
+    padding-top: 200px;
+
+}
+
+#certificate {
+    background-color: #FFF8DC;
+    padding-top: 60px;
+}
+
+#suggest {
+    background-color: #DEB887;
+    padding-top: 100px;
+}
+
+#contact {
+    padding-top: 100px;
+}
+body {
+    background-color: #DEB887; 
+  }
+  
+  .bg-primary {
+    background-color: #FFF8DC; 
+  }
+  
